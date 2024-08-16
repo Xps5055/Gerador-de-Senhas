@@ -3,7 +3,7 @@
 :root{
     --branco: rgb(109, 147, 26);
     --cor-de-fundo: #(0,0,255);
-    --fundo-senha: rgb(0, 77, 4);
+    --fundo-senha: rgba(0, 8, 77, 0.7);
     --fundo-texto: rgb(11, 27, 46);
     --borda: rgba(11, 103, 97, 0.367);
     --roboto: 'Roboto', sans-serif;
@@ -128,14 +128,14 @@ label{
 }
 .fraca{
     width: 25%;
-    background-color: #E71B32; 
+    background-color: rgba(243, 12, 39, 0.853); 
 }
 .media{
-    background-color: #FAF408;
+    background-color: rgb(250, 244, 8);
     width: 50%;
 }
 .forte{
-    background-color: #00FF85;
+    background-color: rgb(30, 255, 0);
     width: 100%;
 }
 
